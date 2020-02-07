@@ -81,5 +81,8 @@ nav > ul > li > a:active {
 #tour_itinerary h2 {
    font-size: 0.9em;
 }
+#tour_itinerary p {
+   font-size: 0.8em;
+}
 
 /* Blockquote Styles */
