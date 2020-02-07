@@ -74,5 +74,8 @@ nav > ul > li > a:active {
    font-variant: small-caps;
 }
 /* Aside Styles */
+#tour_itinerary h1 {
+   font-size: 1.2em;
+}
 
 /* Blockquote Styles */
