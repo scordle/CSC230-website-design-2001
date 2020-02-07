@@ -14,56 +14,61 @@
 */
 
 /* Structural Styles */
-html{
-   background-color: rgb(173, 189, 227);
+html {
+  background-color: rgb(173, 189, 227);
 }
 
 body {
-   background-color: rgb(227, 210, 173);
-   font-family: 'Century Gothic', sans-serif;
+  background-color: rgb(227, 210, 173);
+  font-family: "Century Gothic", sans-serif;
 }
 
 body footer {
-   background-color: rgb(208, 184, 109);
-   padding: 5px 0px;
+  background-color: rgb(208, 184, 109);
+  padding: 5px 0px;
 }
 
-address{
-   font-style: normal;
-   font-size: 0.9em;
-   text-align: center;
-   padding: 10px 0px;
+address {
+  font-style: normal;
+  font-size: 0.9em;
+  text-align: center;
+  padding: 10px 0px;
 }
 
 /* Heading Styles */
-h1, h2 {
-   font-weight: normal;
+h1,
+h2 {
+  font-weight: normal;
 }
 
 /* Navigation Styles */
 nav > ul {
-   list-style-type: none;
-   line-height: 2em;
-   font-size: 0.9em;
+  list-style-type: none;
+  line-height: 2em;
+  font-size: 0.9em;
 }
 
-nav > ul > li > a:link, nav > ul > li > a:visited {
-   text-decoration: none;
-   color: rgb(43, 59, 125);
+nav > ul > li > a:link,
+nav > ul > li > a:visited {
+  text-decoration: none;
+  color: rgb(43, 59, 125);
 }
 
-nav > ul > li > a:hover, nav > ul > li > a:active {
-   color: rgb(212, 35, 35);
+nav > ul > li > a:hover,
+nav > ul > li > a:active {
+  color: rgb(212, 35, 35);
 }
 
 /* Article Styles */
+#tour_summary h1 {
+  font-size: 2.2em;
+  letter-spacing: 0.2em;
+}
 
-
-
+#tour_summary p {
+   font-size:1.1em;
+}
 
 /* Aside Styles */
 
-
-
 /* Blockquote Styles */
-
