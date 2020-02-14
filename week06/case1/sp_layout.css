@@ -40,7 +40,11 @@ header, ul, nav, li, a {
 }
 
 /* Page Header Styles */
-
+header img {
+   display: block;
+   width: 70%;
+   float: left;
+}
 
 
 
