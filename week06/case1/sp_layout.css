@@ -46,6 +46,12 @@ header img {
    float: left;
 }
 
+body > header > nav {
+   float: left;
+   padding: 0px 2px;
+   width: 30%;
+}
+
 
 
 
