@@ -11,7 +11,7 @@
 
 /* Window and Body Styles */
 html {
-  background-color: rgb(230, 182, 144);
+  background-color: #e6b690;
 }
 
 body {
@@ -60,24 +60,32 @@ nav.horizontal a:active {
   color: rgb(255, 255, 64);
 }
 
-/* Topics Styles */
-ul#topics {
+/* About Me Styles */
+ul#aboutMe {
   margin-top: 20px;
   margin-bottom: 20px;
 }
 
-ul#topics li p {
+ul#aboutMe li p {
   color: rgb(95, 114, 232);
   font-size: 0.8em;
 }
 
-/* Customer Comment Styles */
+/* Assignment Styles */
 
-ul#comments li p {
+ul#assignment li p {
   font-size: 0.9em;
   color: rgb(121, 121, 121);
   line-height: 1.2em;
 }
+
+/* Favorites Styles */
+
+ul#favorites li p {
+    font-size: 0.9em;
+    color: rgb(121, 121, 121);
+    line-height: 1.2em;
+  }
 
 /* Footer Styles */
 
