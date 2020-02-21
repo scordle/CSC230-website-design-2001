@@ -17,10 +17,25 @@
 
 /* Horizontal Navigation List Styles */
 
-/* Topics Styles */
-
 /* HR Styles */
 
-/* Customer Comment Styles */
+/* About Me Styles */
+
+/* Assignments Styles */
+article#assignments {
+  width: 40%;
+  float: left;
+}
+
+article#aboutMe {
+  width: 60%;
+  float: left;
+}
+
+/* Favorites Styles */
+article#favorites {
+  width: 100%;
+  float: left;
+}
 
 /* Footer Styles */
