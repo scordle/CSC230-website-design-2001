@@ -17,16 +17,14 @@
 
 /* Horizontal Navigation List Styles */
 
-/* HR Styles */
-
-/* About Me Styles */
-
 /* Assignments Styles */
 article#assignments {
+  clear: both;
   width: 40%;
   float: left;
 }
 
+/* About Me Styles */
 article#aboutMe {
   width: 60%;
   float: left;
@@ -34,6 +32,7 @@ article#aboutMe {
 
 /* Favorites Styles */
 article#favorites {
+  clear: both;
   width: 100%;
   float: left;
 }
